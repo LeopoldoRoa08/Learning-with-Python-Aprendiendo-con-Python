@@ -14,7 +14,7 @@
 ***
 *Learning with Python* is a repository where you can start programming in Python with simple but very effective exercises such as conditionals, loops, arrays, etc. I hope you like it.
 
-![This is an image](/fuentes/prog.jpg)
+![This is an image](/Fuentes/prog.jpg)
 
 ## How to Install Python
 ***
@@ -57,7 +57,7 @@ Steps to install Python
 ***
 *Python* is a high-level interpreted programming language whose philosophy emphasizes code readability. It is widely used in web applications, software development, data science, and machine learning (ML). Developers use Python because it is efficient and easy to learn, and it can run on many different platforms.
 
-![This is an image](/fuentes/foto-logo.jpg)
+![This is an image](/Fuentes/foto-logo.jpg)
 
 ## Historical Background
 ***

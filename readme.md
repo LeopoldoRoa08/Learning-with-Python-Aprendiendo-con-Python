@@ -16,7 +16,7 @@
 ***
 *Aprendiendo con Python* es un repositorio, en el cual vas a poder a empezar a programar Python con ejercicios simples pero muy eficaces como ejemplo tenemos: condicionales, bucles, arrays,etc.Espero que te guste.
 
-![This is an image](/fuentes/prog.jpg)
+![This is an image](Fuentes/prog.jpg)
 
 ## Como instalar Python
 ***
@@ -59,7 +59,7 @@ Los pasos para instalar Python
 *Python* es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código,ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes.
 
 
-![This is an image](/fuentes/foto-logo.jpg)
+![This is an image](/Fuentes/foto-logo.jpg)
 
 ## Antecedentes históricos
 ***

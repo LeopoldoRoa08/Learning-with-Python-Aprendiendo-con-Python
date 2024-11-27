@@ -1,69 +1,68 @@
-# Bienvenido a "Aprendiendo con Python" 
-## Tabla de contenido
+# Welcome to "Learning with Python"
+## Table of Contents
 ***
-- [Bienvenido a "Aprendiendo con Python"](#bienvenido-a-aprendiendo-con-python)
-  - [Tabla de contenido](#tabla-de-contenido)
-  - [Acerca de este repositorio](#acerca-de-este-repositorio)
-  - [Como instalar Python](#como-instalar-python)
-  - [Herramientas para programar en Python](#herramientas-para-programar-en-python)
-  - [¿Qué es Python?](#qué-es-python)
-  - [Antecedentes históricos](#antecedentes-históricos)
-  - [Colaboración](#colaboración)
+- [Welcome to "Learning with Python"](#welcome-to-learning-with-python)
+  - [Table of Contents](#table-of-contents)
+  - [About this Repository](#about-this-repository)
+  - [How to Install Python](#how-to-install-python)
+  - [Tools for Programming in Python](#tools-for-programming-in-python)
+  - [What is Python?](#what-is-python)
+  - [Historical Background](#historical-background)
+  - [Collaboration](#collaboration)
 
-
-
-## Acerca de este repositorio 
+## About this Repository
 ***
-*Aprendiendo con Python* es un repositorio, en el cual vas a poder a empezar a programar Python con ejercicios simples pero muy eficaces como ejemplo tenemos: condicionales, bucles, arrays,etc.Espero que te guste.
+*Learning with Python* is a repository where you can start programming in Python with simple but very effective exercises such as conditionals, loops, arrays, etc. I hope you like it.
 
-![This is an image](Fuentes/prog.jpg)
+![This is an image](/fuentes/prog.jpg)
 
-## Como instalar Python
+## How to Install Python
 ***
-Los pasos para instalar Python 
+Steps to install Python
 
-**Para Windows**: 
+**For Windows**:
 
-- **Descarga Python:** Ve al sitio web oficial de Python (python.org) y selecciona la versión más reciente para Windows.
+- **Download Python:** Go to the official Python website (python.org) and select the latest version for Windows.
 
-- **Ejecuta el instalador**: Una vez descargado, abre el archivo .exe. Marca la casilla "Add Python to PATH" para que puedas ejecutar Python desde la línea de comandos.
+- **Run the installer:** Once downloaded, open the .exe file. Check the "Add Python to PATH" box so you can run Python from the command line.
 
-- **Completa la instalación**: Sigue las instrucciones del asistente de instalación y espera a que el proceso termine.
+- **Complete the installation:** Follow the installation wizard instructions and wait for the process to finish.
 
-- **Verifica la instalación**: Abre la línea de comandos (cmd) y escribe python --version. Deberías ver la versión de Python instalada.
+- **Verify the installation:** Open the command line (cmd) and type python --version. You should see the installed Python version.
 
-**Para macOS**:
-- **Descarga Python:** Ve al sitio web oficial de Python y selecciona la versión más reciente para macOS.
+**For macOS**:
+- **Download Python:** Go to the official Python website and select the latest version for macOS.
 
-- **Instala Python:** Abre el archivo descargado y sigue las instrucciones del asistente de instalación.
+- **Install Python:** Open the downloaded file and follow the installation wizard instructions.
 
-- **Verifica la instalación:** Abre la terminal y escribe python3 --version. Deberías ver la versión de Python instalada
+- **Verify the installation:** Open the terminal and type python3 --version. You should see the installed Python version.
 
-## Herramientas para programar en Python
+## Tools for Programming in Python
 ***
-+ **PyCharm Community Edition:** Un IDE muy completo y popular para Python. Tiene muchas funcionalidades avanzadas, como autocompletado de código, depuración y soporte para múltiples frameworks2.
++ **PyCharm Community Edition:** A very complete and popular IDE for Python. It has many advanced features, such as code autocompletion, debugging, and support for multiple frameworks.
 
-+ **Visual Studio Code (VS Code):** Un editor de código ligero y altamente personalizable. Con la extensión de Python, puedes obtener una experiencia de desarrollo muy completa1.
++ **Visual Studio Code (VS Code):** A lightweight and highly customizable code editor. With the Python extension, you can get a very complete development experience.
 
-+ **Spyder:** Un IDE diseñado principalmente para científicos e ingenieros, con integración con bibliotecas como NumPy y SciPy.
++ **Spyder:** An IDE mainly designed for scientists and engineers, with integration with libraries like NumPy and SciPy.
 
-+ **PyDev:** Un plugin para Eclipse que proporciona soporte para Python, incluyendo autocompletado de código y depuración.
++ **PyDev:** A plugin for Eclipse that provides support for Python, including code autocompletion and debugging.
 
-+ **IDLE:** El entorno de desarrollo incluido por defecto con Python, ideal para principiantes.
++ **IDLE:** The development environment included by default with Python, ideal for beginners.
 
-+ **Sublime Text:** Un editor de texto rápido y eficiente, muy popular entre los programadores.
++ **Sublime Text:** A fast and efficient text editor, very popular among programmers.
 
-+ **Jupyter Notebook:** Ideal para ciencia de datos y análisis, permite escribir y ejecutar código en celdas interactivas.
-## ¿Qué es Python?
++ **Jupyter Notebook:** Ideal for data science and analysis, it allows you to write and execute code in interactive cells.
+
+## What is Python?
 ***
-*Python* es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código,ampliamente utilizado en las aplicaciones web, el desarrollo de software, la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente y fácil de aprender, además de que se puede ejecutar en muchas plataformas diferentes.
+*Python* is a high-level interpreted programming language whose philosophy emphasizes code readability. It is widely used in web applications, software development, data science, and machine learning (ML). Developers use Python because it is efficient and easy to learn, and it can run on many different platforms.
 
+![This is an image](/fuentes/foto-logo.jpg)
 
-![This is an image](/Fuentes/foto-logo.jpg)
-
-## Antecedentes históricos
+## Historical Background
 ***
-Python fue creado por Guido van Rossum, un programador holandés, a finales de los años 80. La implementación comenzó en diciembre de 1989 como un proyecto de pasatiempo mientras trabajaba en el Centrum Wiskunde & Informatica (CWI) en Ámsterdam. La primera version de Python se lanzo en 1991.
-## Colaboración
+Python was created by Guido van Rossum, a Dutch programmer, in the late 1980s. Implementation began in December 1989 as a hobby project while working at the Centrum Wiskunde & Informatica (CWI) in Amsterdam. The first version of Python was released in 1991.
+
+## Collaboration
 ***
-Te invitamos a colaborar en nuestro repositorio con ejercicios y sugerencias, la programacion es un mundo muy enigmatico, dale una oportunidad.
+We invite you to collaborate on our repository with exercises and suggestions. Programming is a very enigmatic world, give it a chance.
